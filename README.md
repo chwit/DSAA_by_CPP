@@ -1,2 +1,2 @@
 # DSAA_by_CPP
-study code of 《Data Structures,Algorithms,and Applications in C++》
+Learning code for  《Data Structures,Algorithms,and Applications in C++》
