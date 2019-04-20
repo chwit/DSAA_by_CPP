@@ -36,7 +36,7 @@ void bubbleSort_dep(int arr[], int len)
 		cout << endl;
 	}
 }
-
+//及时终止的思想，不管是选择排序还是冒泡，如果在一次循环中没有出现元素的交换，那么就退出循环，说明已经排好序了
 int main(int argc, const char * argv[]) {
     // insert code here...
 	int arr[] = { 10, 4, 7, 3, 6, 38, 44, 40, 20 };
